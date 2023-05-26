@@ -1,0 +1,42 @@
+/* .App {
+  font-family: sans-serif;
+}
+
+label,
+div {
+  display: block;
+  margin: 0.5rem;
+}
+
+input {
+  margin-left: 0.25rem;
+}
+
+.schedule {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  padding: 8px;
+}
+
+tr {
+  margin: 8px;
+}
+
+.Awake {
+  background-color: lightgreen;
+}
+
+.Nap {
+  background-color: plum;
+}
+
+.Bedtime {
+  background-color: powderblue;
+} */
